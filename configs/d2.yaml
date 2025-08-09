@@ -1,0 +1,51 @@
+﻿global:
+  currency: USD
+  language: en
+  geo: US
+  cvr: 0.02
+
+themes:
+  product_categories:
+    - name: Vegan Protein Powder
+      landing_url: https://yourdomain.com/vegan-protein
+      seeds: ["vegan protein powder","plant based protein","pea protein"]
+      priority: high
+    - name: Electrolyte Drink Mix
+      landing_url: https://yourdomain.com/electrolytes
+      seeds: ["electrolyte powder","hydration mix"]
+      priority: medium
+
+  use_cases:
+    - name: Post-Workout Recovery Drinks
+      landing_url: https://yourdomain.com/recovery
+      seeds: ["post workout drink","muscle recovery supplement"]
+      priority: high
+
+  demographics:
+    - name: For Busy Professionals
+      landing_url: https://yourdomain.com/on-the-go
+      seeds: ["on the go protein","quick healthy drinks"]
+      priority: medium
+
+  seasonal:
+    - name: Back to School Wellness
+      landing_url: https://yourdomain.com/back-to-school
+      seeds: ["healthy school snacks","study snacks protein"]
+      priority: low
+
+modifiers:
+  heads: ["best","buy","top","organic","grass fed"]
+  qualifiers: ["for women","for men","low calorie","lactose free"]
+  long_tail: ["near me","online","on sale"]
+  negatives: ["free","pdf","recipe","reddit"]
+  brand_terms: []
+  banned_terms: []
+
+generation:
+  match_types: ["exact","phrase"]
+  max_keywords_per_theme: 120
+
+gkp:
+  enabled: true
+  csv_path: ""     
+  min_volume: 500

@@ -1,0 +1,157 @@
+﻿global:
+  currency: USD
+  cvr: 0.02
+  aov: 45
+  target_roas: 3.0
+
+shopping_bids:
+  - product_group: Vegan Protein Powder 1lb
+    top_of_page_low: 0.35
+    top_of_page_high: 1.10
+    competition: Medium
+    daily_budget: 120
+  - product_group: Vegan Protein Powder 2lb
+    top_of_page_low: 0.40
+    top_of_page_high: 1.20
+    competition: High
+    daily_budget: 160
+  - product_group: Vegan Protein Powder 5lb
+    top_of_page_low: 0.45
+    top_of_page_high: 1.30
+    competition: High
+    daily_budget: 190
+  - product_group: Whey Isolate 2lb
+    top_of_page_low: 0.48
+    top_of_page_high: 1.40
+    competition: High
+    daily_budget: 170
+  - product_group: Whey Concentrate 2lb
+    top_of_page_low: 0.35
+    top_of_page_high: 1.00
+    competition: Medium
+    daily_budget: 130
+  - product_group: Casein Protein 2lb
+    top_of_page_low: 0.32
+    top_of_page_high: 0.95
+    competition: Medium
+    daily_budget: 120
+  - product_group: Electrolyte Drink Mix
+    top_of_page_low: 0.25
+    top_of_page_high: 0.80
+    competition: Medium
+    daily_budget: 110
+  - product_group: Hydration Tablets
+    top_of_page_low: 0.20
+    top_of_page_high: 0.70
+    competition: Low
+    daily_budget: 90
+  - product_group: BCAA Powder
+    top_of_page_low: 0.28
+    top_of_page_high: 0.90
+    competition: Medium
+    daily_budget: 110
+  - product_group: EAA Powder
+    top_of_page_low: 0.30
+    top_of_page_high: 0.95
+    competition: Medium
+    daily_budget: 120
+  - product_group: Greens Powder
+    top_of_page_low: 0.32
+    top_of_page_high: 1.05
+    competition: Medium
+    daily_budget: 125
+  - product_group: Meal Replacement Shake
+    top_of_page_low: 0.30
+    top_of_page_high: 0.90
+    competition: Low
+    daily_budget: 120
+  - product_group: RTD Protein Shake 12-pack
+    top_of_page_low: 0.40
+    top_of_page_high: 1.10
+    competition: High
+    daily_budget: 150
+  - product_group: Collagen Peptides 1lb
+    top_of_page_low: 0.30
+    top_of_page_high: 0.95
+    competition: Medium
+    daily_budget: 110
+  - product_group: Creatine Monohydrate 300g
+    top_of_page_low: 0.25
+    top_of_page_high: 0.85
+    competition: Medium
+    daily_budget: 100
+  - product_group: Pre-Workout Powder
+    top_of_page_low: 0.35
+    top_of_page_high: 1.05
+    competition: High
+    daily_budget: 140
+  - product_group: Post-Workout Recovery Drink
+    top_of_page_low: 0.30
+    top_of_page_high: 0.95
+    competition: Medium
+    daily_budget: 120
+  - product_group: Mass Gainer 6lb
+    top_of_page_low: 0.42
+    top_of_page_high: 1.25
+    competition: High
+    daily_budget: 180
+  - product_group: Keto Protein Powder
+    top_of_page_low: 0.34
+    top_of_page_high: 1.00
+    competition: Medium
+    daily_budget: 120
+  - product_group: Lactose-Free Whey
+    top_of_page_low: 0.36
+    top_of_page_high: 1.05
+    competition: Medium
+    daily_budget: 125
+  - product_group: Plant Protein + Greens
+    top_of_page_low: 0.33
+    top_of_page_high: 1.00
+    competition: Medium
+    daily_budget: 120
+  - product_group: Protein Bars 12-pack
+    top_of_page_low: 0.30
+    top_of_page_high: 1.00
+    competition: Medium
+    daily_budget: 130
+  - product_group: Electrolyte Gummies
+    top_of_page_low: 0.22
+    top_of_page_high: 0.75
+    competition: Low
+    daily_budget: 85
+  - product_group: Isotonic Sports Drink
+    top_of_page_low: 0.26
+    top_of_page_high: 0.85
+    competition: Medium
+    daily_budget: 100
+  - product_group: Intra-Workout Carbs
+    top_of_page_low: 0.27
+    top_of_page_high: 0.90
+    competition: Medium
+    daily_budget: 110
+  - product_group: Beta-Alanine 200g
+    top_of_page_low: 0.24
+    top_of_page_high: 0.80
+    competition: Low
+    daily_budget: 90
+  - product_group: L-Carnitine 3000mg
+    top_of_page_low: 0.25
+    top_of_page_high: 0.85
+    competition: Medium
+    daily_budget: 95
+  - product_group: Multivitamin Sports
+    top_of_page_low: 0.23
+    top_of_page_high: 0.80
+    competition: Low
+    daily_budget: 90
+  - product_group: Omega-3 Fish Oil
+    top_of_page_low: 0.24
+    top_of_page_high: 0.85
+    competition: Low
+    daily_budget: 95
+  - product_group: Joint Support Formula
+    top_of_page_low: 0.26
+    top_of_page_high: 0.90
+    competition: Medium
+    daily_budget: 105

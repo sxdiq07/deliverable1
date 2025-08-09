@@ -49,14 +49,14 @@ inputs:
   competitor_csv: "competitor_keywords.csv"
 
 filters:
-  min_search_volume: 500        # set 500 for final; use 0 while testing
+  min_search_volume: 500        
   max_keywords_per_group: 80
 
 budgets:
   shopping_monthly_inr: 80000
   search_monthly_inr: 120000
   pmax_monthly_inr: 100000
-  aov_inr: 1500                 # average order value (for CPA/ROAS)
+  aov_inr: 1500                
 
 output:
   file: "deliverable1_adgroups.xlsx"
@@ -106,10 +106,5 @@ Troubleshooting
 - Empty metric columns: re-export CSV from GKP; ensure it includes the columns above. Script auto-detects UTF‑16, delimiter, and header row.
 - Too few keywords: set filters.min_search_volume to 0 to inspect; then restore to 500.
 - Missing locations: script fills city if found in the keyword; otherwise uses default_location_label.
-
-Optional enhancements (simple)
-- Duplicate rows with match_type="Broad" if you must show Broad variants (BMM is deprecated).
-- Provide final URLs per ad group in YAML; we can auto-fill the landing_page column.
-
 License
 - Internal assessment project.

@@ -1,0 +1,93 @@
+{
+  "Vegan Protein Powder": {
+    "theme_type": "product_categories",
+    "landing_url": "https://yourdomain.com/vegan-protein",
+    "priority": "high",
+    "audience_signals": [
+      "vegan protein powder",
+      "plant based protein",
+      "pea protein",
+      "best vegan protein powder",
+      "buy vegan protein powder",
+      "top vegan protein powder",
+      "organic vegan protein powder",
+      "grass fed vegan protein powder",
+      "vegan protein powder for women",
+      "vegan protein powder for men",
+      "vegan protein powder low calorie",
+      "vegan protein powder near me"
+    ]
+  },
+  "Electrolyte Drink Mix": {
+    "theme_type": "product_categories",
+    "landing_url": "https://yourdomain.com/electrolytes",
+    "priority": "medium",
+    "audience_signals": [
+      "electrolyte powder",
+      "hydration mix",
+      "best electrolyte powder",
+      "buy electrolyte powder",
+      "top electrolyte powder",
+      "organic electrolyte powder",
+      "grass fed electrolyte powder",
+      "electrolyte powder for women",
+      "electrolyte powder for men",
+      "electrolyte powder low calorie",
+      "electrolyte powder near me"
+    ]
+  },
+  "Post-Workout Recovery Drinks": {
+    "theme_type": "use_cases",
+    "landing_url": "https://yourdomain.com/recovery",
+    "priority": "high",
+    "audience_signals": [
+      "post workout drink",
+      "muscle recovery supplement",
+      "best post workout drink",
+      "buy post workout drink",
+      "top post workout drink",
+      "organic post workout drink",
+      "grass fed post workout drink",
+      "post workout drink for women",
+      "post workout drink for men",
+      "post workout drink low calorie",
+      "post workout drink near me"
+    ]
+  },
+  "For Busy Professionals": {
+    "theme_type": "demographics",
+    "landing_url": "https://yourdomain.com/on-the-go",
+    "priority": "medium",
+    "audience_signals": [
+      "on the go protein",
+      "quick healthy drinks",
+      "best on the go protein",
+      "buy on the go protein",
+      "top on the go protein",
+      "organic on the go protein",
+      "grass fed on the go protein",
+      "on the go protein for women",
+      "on the go protein for men",
+      "on the go protein low calorie",
+      "on the go protein near me"
+    ]
+  },
+  "Back to School Wellness": {
+    "theme_type": "seasonal",
+    "landing_url": "https://yourdomain.com/back-to-school",
+    "priority": "low",
+    "audience_signals": [
+      "healthy school snacks",
+      "study snacks protein",
+      "best healthy school snacks",
+      "buy healthy school snacks",
+      "top healthy school snacks",
+      "organic healthy school snacks",
+      "grass fed healthy school snacks",
+      "healthy school snacks for women",
+      "healthy school snacks for men",
+      "healthy school snacks low calorie",
+      "healthy school snacks near me"
+    ]
+  }
+}
