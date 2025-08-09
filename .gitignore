@@ -1,0 +1,14 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.vscode/
+
+# generated artifacts
+*.xlsx
+*.xls
+*.xlsm
+
+# allow example output if you include one
+!examples/*.xlsx

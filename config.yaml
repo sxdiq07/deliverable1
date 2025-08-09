@@ -1,0 +1,22 @@
+brand:
+  name: "HealthKart"
+  brand_terms: ["healthkart","hk"]
+competitor:
+  name: "MuscleBlaze"
+  competitor_terms: ["muscleblaze","mb"]
+targeting:
+  locations: ["Mumbai","Delhi","Bengaluru","Hyderabad","Chennai","Pune"]
+  default_location_label: "India"
+inputs:
+  brand_csv: "brand_keywords.csv"
+  competitor_csv: "competitor_keywords.csv"
+filters:
+  min_search_volume: 500
+  max_keywords_per_group: 80
+budgets:
+  shopping_monthly_inr: 80000
+  search_monthly_inr: 120000
+  pmax_monthly_inr: 100000
+  aov_inr: 1500   # average order value
+output:
+  file: "deliverable1_adgroups.xlsx"
